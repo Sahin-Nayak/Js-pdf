@@ -1,0 +1,52 @@
+{
+  "ruppess": "₹ ",
+  "company": {
+    "name": "Company Name",
+    "gstin": "GSTN0001",
+    "address": "Bidhannagar road near railway station, Kolkata, West Bengal 700091"
+  },
+
+  "invoice": {
+    "invoiceNumber": "KH0001",
+    "orderNumber": "COUPON981",
+    "orderPlacedDate": "02-01-2026",
+    "orderShippedDate": "02-01-2026",
+    "natureOfTransaction": "Inter-State",
+    "natureOfSupply": "Service",
+    "placeOfSupply": "WEST BENGAL"
+  },
+
+  "customer": {
+    "name": "ABC Name",
+    "address": "howrahhowrah,700157, WEST BENGAL",
+    "phone": "9836719775",
+    "email": "abc@gmail.com"
+  },
+
+  "items": [
+    {
+      "name": "California Dreamin: Cityscape Vibes Men's T-Shirt",
+      "sku": "sku12934jH9",
+      "gross": "999",
+      "discount": "500",
+      "taxable": "475.24",
+      "cgst": "11.88",
+      "sgst": "11.88",
+      "qty": "1",
+      "total": "499"
+    }
+  ],
+
+  "summary": {
+    "grossAmount": "999",
+    "discount": "500",
+    "couponDiscount": "0",
+    "taxableAmount": "475.24",
+    "cgst": "11.88",
+    "sgst": "11.88",
+    "totalAmount": "499"
+  },
+
+  "paymentMode": "Cash On Delivery",
+  "amountInWords": "Four hundred ninety-nine only"
+}
